@@ -14,7 +14,6 @@ type IntroAnimationProps = {
 }
 
 const TEAL = '#0BB3A4'
-const SOFT_LINE = 'rgba(11,179,164,0.13)'
 const WAVE_LINE = 'rgba(11,179,164,0.75)'
 
 function createParticles(w: number, h: number): IntroParticle[] {
