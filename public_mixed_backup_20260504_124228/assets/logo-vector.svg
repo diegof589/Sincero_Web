@@ -1,0 +1,8 @@
+<svg width="220" height="72" viewBox="0 0 220 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="72" rx="8" fill="none"/>
+  <path d="M24 20L53 36L24 52V42L38 36L24 30V20Z" fill="#0D15B2"/>
+  <path d="M50 20L79 36L50 52V42L64 36L50 30V20Z" fill="#0BB3A4"/>
+  <path d="M91 23H99L106 42L113 23H121L110 50H102L91 23Z" fill="#000050"/>
+  <path d="M128 23H149V29H135V34H148V40H135V44H150V50H128V23Z" fill="#000050"/>
+  <text x="24" y="63" fill="#667085" font-family="Poppins, Arial, sans-serif" font-size="10" font-weight="600">VECTOR AI</text>
+</svg>

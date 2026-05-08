@@ -1,0 +1,119 @@
+{
+  "quiz": [
+    {
+      "q": "What is the main concept of a Relational Database Management System (RDBMS)?",
+      "options": [
+        "A collection of related files.",
+        "A system used to manage and organize data in tables.",
+        "A programming language for database operations.",
+        "A network protocol for communication between databases."
+      ],
+      "answer": "A system used to manage and organize data in tables.",
+      "explanation": "RDBMS is a software that allows users to create, update, and manage data organized in the form of tables. It provides an interface for users to interact with the database and perform various operations.",
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following are examples of Database Management Systems (DBMS)?",
+      "options": [
+        "MySQL, SQL Server, Oracle, Excel",
+        "Notepad, Word, PowerPoint, Photoshop"
+      ],
+      "answer": "MySQL, SQL Server, Oracle",
+      "explanation": "MySQL, SQL Server, and Oracle are examples of Database Management Systems (DBMS), which are software applications used to create, update, and manage databases.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following are examples of Database Engines?",
+      "options": [
+        "InnoDB, MyISAM, Memory, MongoDB",
+        "Java, Python, Ruby, PHP"
+      ],
+      "answer": "InnoDB, MyISAM, Memory",
+      "explanation": "InnoDB, MyISAM, and Memory are examples of Database Engines, which are the underlying storage engines used by a DBMS to manage data.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the role of each database engine in a Relational Database Management System (RDBMS)?",
+      "options": [
+        "To store and retrieve data from files.",
+        "To provide an interface for users to interact with the database.",
+        "To manage and organize data in tables.",
+        "To perform various operations on the data."
+      ],
+      "answer": "To store and retrieve data from files.",
+      "explanation": "Database engines are responsible for storing and retrieving data from files. They provide a way to access, manipulate, and manage the data stored in the database.",
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the importance of Charset and Collation in a Relational Database?",
+      "options": [
+        "To define the character encoding used by the database.",
+        "To determine the type of relationships between tables in a database.",
+        "To provide an interface for users to interact with the database.",
+        "To perform various operations on the data."
+      ],
+      "answer": "To define the character encoding used by the database.",
+      "explanation": "Charset and Collation are important because they determine how characters are stored and sorted in a database. They play a crucial role in ensuring that data is correctly interpreted and displayed.",
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is SQL used for in a Relational Database?",
+      "options": [
+        "To define the structure of tables in a database.",
+        "To perform various operations on the data.",
+        "To provide an interface for users to interact with the database.",
+        "To determine the type of relationships between tables in a database."
+      ],
+      "answer": "To perform various operations on the data.",
+      "explanation": "SQL (Structured Query Language) is used to perform various operations on the data stored in a Relational Database, such as creating, updating, and querying tables.",
+      "difficulty": "hard"
+    }
+  ],
+  "rubric": [
+    {
+      "criteria": "Understanding of the concept and features of Relational Databases (RDBMS)",
+      "levels": [
+        "Insuficiente",
+        "Suficiente",
+        "Bueno",
+        "Excelente"
+      ]
+    },
+    {
+      "criteria": "Identification of different database management systems such as MySQL, SQL Server, Oracle",
+      "levels": [
+        "Insuficiente",
+        "Suficiente",
+        "Bueno",
+        "Excelente"
+      ]
+    },
+    {
+      "criteria": "Recognition of various database engines like InnoDB, MyISAM, Memory",
+      "levels": [
+        "Insuficiente",
+        "Suficiente",
+        "Bueno",
+        "Excelente"
+      ]
+    },
+    {
+      "criteria": "Comprehension of the role and characteristics of each database engine",
+      "levels": [
+        "Insuficiente",
+        "Suficiente",
+        "Bueno",
+        "Excelente"
+      ]
+    },
+    {
+      "criteria": "Understanding of the concept of relationships in databases",
+      "levels": [
+        "Insuficiente",
+        "Suficiente",
+        "Bueno",
+        "Excelente"
+      ]
+    }
+  ]
+}

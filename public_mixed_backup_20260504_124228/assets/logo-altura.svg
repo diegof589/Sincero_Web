@@ -1,0 +1,9 @@
+<svg width="220" height="72" viewBox="0 0 220 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="72" rx="8" fill="none"/>
+  <circle cx="37" cy="36" r="17" stroke="#0BB3A4" stroke-width="5"/>
+  <path d="M37 18L52 45H22L37 18Z" fill="#0D15B2"/>
+  <path d="M65 23H73L83 50H76L74 44H64L62 50H55L65 23ZM66 38H72L69 30L66 38Z" fill="#000050"/>
+  <path d="M90 23H97V44H111V50H90V23Z" fill="#000050"/>
+  <path d="M116 23H139V29H131V50H124V29H116V23Z" fill="#000050"/>
+  <text x="24" y="63" fill="#667085" font-family="Poppins, Arial, sans-serif" font-size="10" font-weight="600">ALTURA GROUP</text>
+</svg>

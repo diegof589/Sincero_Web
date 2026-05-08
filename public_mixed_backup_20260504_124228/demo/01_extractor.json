@@ -1,0 +1,69 @@
+{
+  "title": "Concepts and Features of Relational Databases",
+  "summary": "This text discusses the creation and management of relational databases (RDBMS), including different database management systems (MySQL, SQL Server, Oracle), database engines (InnoDB, MyISAM, Memory), and various database features such as tables, keys, and relationships.",
+  "key_concepts": [
+    {
+      "concept": "RDBMS",
+      "definition": "Relational Database Management System",
+      "evidence": "Se crea con un gestor de db y querys"
+    },
+    {
+      "concept": "Database Engine",
+      "definition": "The program that manages all the queries",
+      "evidence": "RDBMS: mysql, sqlite, oracles; Motores: el programa que maneja todos los querys"
+    },
+    {
+      "concept": "InnoDB",
+      "definition": "A database engine that supports transactionsACID and is robust",
+      "evidence": "Motor por defecto desde la vrsion 5.5; Soporta transaccionesACID"
+    },
+    {
+      "concept": "MyISAM",
+      "definition": "A database engine that is simple and fast for reading but slow for writing",
+      "evidence": "por defecto durante años; Rapido para leer, torpe para escribir"
+    },
+    {
+      "concept": "Memory",
+      "definition": "A database engine that stores all data directly in memory RAM",
+      "evidence": "Almacena todos los datos directamente en la memoria RAM, no en el disco duro; Es insanamente rápido, casi instantaneo"
+    },
+    {
+      "concept": "Archive",
+      "definition": "A database engine for storing large amounts of data and compressing them automatically upon insertion",
+      "evidence": "Para guardar grandes cantidades de datos; Comprime los datos automaticos al instertarlos, solo permite insert y select. no puedes borrar ni acutalizar los registros"
+    },
+    {
+      "concept": "CSV",
+      "definition": "A format for storing data in plain text files separated by commas",
+      "evidence": "Guarda los datos en archivos de texto plano, separado por comas; No soporta indexación ni seguridad avanzada"
+    },
+    {
+      "concept": "Character set (Charset)",
+      "definition": "The alphabet that defines the symbols that can be stored",
+      "evidence": "Estamos hablando de dos conceptos: Character set(Charset): Es el alfabeto, define que simbolos puedes guardar"
+    },
+    {
+      "concept": "Collation (Cotejamiento)",
+      "definition": "The rules that define how symbols are compared and ordered",
+      "evidence": "Collation(Cotejamiento): Son las reglas, define como se comparan y ordenan esos simbolos"
+    },
+    {
+      "concept": "SQL",
+      "definition": "A standard language for managing relational databases",
+      "evidence": "SQL, siglas de Structured Query Language (Lenguaje de Consulta Estructurado), es el lenguaje estándar para gestionar, manipular y consultar bases de datos relacionales"
+    },
+    {
+      "concept": "DBMS",
+      "definition": "A software system used for creating, administering, and controlling databases",
+      "evidence": "Un DBMS (Database Management System) o SGBD (Sistema de Gestión de Bases de Datos) es un software especializado que actúa como interfaz entre los usuarios, las aplicaciones y los datos"
+    },
+    {
+      "concept": "Relationships in database",
+      "definition": "Different types of relationships between tables in a database",
+      "evidence": "Tipos de relaciones en base de datos"
+    }
+  ],
+  "prerequisites": [
+    "Understanding of basic computer concepts, familiarity with SQL"
+  ]
+}

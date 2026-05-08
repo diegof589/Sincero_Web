@@ -1,0 +1,77 @@
+{
+  "learning_objectsives": [
+    "Understand the concept and features of Relational Databases (RDBMS).",
+    "Identify different database management systems such as MySQL, SQL Server, Oracle.",
+    "Recognize various database engines like InnoDB, MyISAM, Memory.",
+    "Comprehend the role and characteristics of each database engine.",
+    "Understand the concept of relationships in databases."
+  ],
+  "lesson_plan": [
+    {
+      "topic": "Introduction to Relational Databases",
+      "duration_min": 10,
+      "activities": [
+        "Lecture: Overview of RDBMS"
+      ],
+      "materials": [
+        "Slides: Introduction to RDBMS"
+      ]
+    },
+    {
+      "topic": "Database Management Systems (DBMS)",
+      "duration_min": 15,
+      "activities": [
+        "Lecture: Types of DBMS",
+        "Group Discussion: Comparison of MySQL, SQL Server, Oracle"
+      ],
+      "materials": [
+        "Slides: DBMS Overview",
+        "Handout: DBMS Comparison"
+      ]
+    },
+    {
+      "topic": "Database Engines",
+      "duration_min": 20,
+      "activities": [
+        "Lecture: Introduction to Database Engines",
+        "Individual Research: InnoDB, MyISAM, Memory"
+      ],
+      "materials": [
+        "Slides: Database Engines Overview",
+        "Handout: Database Engine Characteristics"
+      ]
+    },
+    {
+      "topic": "Character Set (Charset) and Collation (Cotejamiento)",
+      "duration_min": 10,
+      "activities": [
+        "Lecture: Definition and Importance of Charset and Collation"
+      ],
+      "materials": [
+        "Slides: Charset and Collation"
+      ]
+    },
+    {
+      "topic": "SQL",
+      "duration_min": 15,
+      "activities": [
+        "Lecture: Introduction to SQL",
+        "Practical Exercise: Writing basic SQL queries"
+      ],
+      "materials": [
+        "Slides: Introduction to SQL",
+        "Handout: Basic SQL Queries"
+      ]
+    },
+    {
+      "topic": "Relationships in Database",
+      "duration_min": 15,
+      "activities": [
+        "Lecture: Types of relationships between tables in a database"
+      ],
+      "materials": [
+        "Slides: Relationships in Database"
+      ]
+    }
+  ]
+}

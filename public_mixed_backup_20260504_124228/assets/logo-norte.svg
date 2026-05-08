@@ -1,0 +1,8 @@
+<svg width="220" height="72" viewBox="0 0 220 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="72" rx="8" fill="none"/>
+  <path d="M41 21L54 51H47L39 32L31 51H24L37 21H41Z" fill="#0BB3A4"/>
+  <path d="M62 23H70L84 41V23H91V50H84L69 31V50H62V23Z" fill="#000050"/>
+  <path d="M101 23H121V29H108V34H120V40H108V50H101V23Z" fill="#000050"/>
+  <path d="M130 23H137V44H151V50H130V23Z" fill="#000050"/>
+  <text x="24" y="63" fill="#667085" font-family="Poppins, Arial, sans-serif" font-size="10" font-weight="600">NORTE LABS</text>
+</svg>
